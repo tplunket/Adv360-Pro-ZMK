@@ -1,5 +1,12 @@
 # ADV360-PRO-ZMK
 
+An Advantage 360 Pro Dvorak layout matching the Advantage2 Dvorak layout with the following changes:
+
+* Up and down keys are swapped because I always felt that the up arrow was lower than the down arrow and just couldn't get used to it.
+* The macro-3 button is multimedia play/pause and macro-4 is mute/unmute.
+* I tried to make pressing both FN keys latch the function keys on but it isn't working yet.
+* Since it varies from the default Advantage2 layout, the right side keys top to bottom are backslash/pipe, forward slash/question mark, dash/underscore. This is closer to a Dvorak layout on a traditional keyboard where the dash is next to S and the forward slash is next to L.
+
 ## Modifying the keymap
 
 There is a GUI for editing the keymap. It is available at https://kinesiscorporation.github.io/Adv360-Pro-GUI
