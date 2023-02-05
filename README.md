@@ -3,9 +3,10 @@
 An Advantage 360 Pro Dvorak layout matching the Advantage2 Dvorak layout with the following changes:
 
 * Up and down keys are swapped because I always felt that the up arrow was lower than the down arrow and just couldn't get used to it.
-* The macro-3 button is multimedia play/pause and macro-4 is mute/unmute.
+* The macro-3 button is multimedia mute/unmute and macro-4 is play/pause.
 * I tried to make pressing both FN keys latch the function keys on but it isn't working yet.
 * Since it varies from the default Advantage2 layout, the right side keys top to bottom are backslash/pipe, forward slash/question mark, dash/underscore. This is closer to a Dvorak layout on a traditional keyboard where the dash is next to S and the forward slash is next to L.
+* PrintScreen and ScrollLock are on the kp layer, top right corner key and the one below it, respectively.
 
 ## Modifying the keymap
 
